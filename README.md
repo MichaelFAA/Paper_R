@@ -14,11 +14,11 @@ Los datos pueden ser descargados directamente desde el registro de vacunacion de
 
 ## Descripción de los datos Registro de vacunación COVID-19.
 
-* fecha_vacuna: Fecha en la que se aplicó la vacuna
-* zona: Zonas de planificación del Ecuador conformado por provincias
-* provincia: Provincia en la que se aplicó a vacuna
-* sexo: Sexo del paciente que recibe la vacuna
-* gedad: Grupo de edad al que pertenece el o los individuos
-* nom_vacuna: Nombre de la vacuna aplicada
-* primera: Cuantas primeras dosis aplicadas
-* segunda: Cuantas segundas dosis aplicadas
+* fecha_vacuna = Fecha en la que se aplicó la vacuna
+* zona = Zonas de planificación del Ecuador conformado por provincias
+* provincia = Provincia en la que se aplicó a vacuna
+* sexo = Sexo del paciente que recibe la vacuna
+* gedad = Grupo de edad al que pertenece el o los individuos
+* nom_vacuna = Nombre de la vacuna aplicada
+* primera = Cuantas primeras dosis aplicadas
+* segunda = Cuantas segundas dosis aplicadas
